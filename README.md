@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0628-maximum-product-of-three-numbers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0238-product-of-array-except-self) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
