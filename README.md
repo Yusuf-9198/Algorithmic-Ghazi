@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
