@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1025-divisor-game) |
 ## Backtracking
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1288-remove-covered-intervals) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1025-divisor-game) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1025-divisor-game) |
 ## Number Theory
 |  |
