@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2029-stone-game-ix) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1510-stone-game-iv) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0347-top-k-frequent-elements) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2029-stone-game-ix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bit Manipulation
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2029-stone-game-ix) |
 ## Number Theory
 |  |
 | ------- |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -255,12 +260,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -277,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
