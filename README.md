@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1288-remove-covered-intervals) |
+| [1386-cinema-seat-allocation](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0496-next-greater-element-i) |
+| [1386-cinema-seat-allocation](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1386-cinema-seat-allocation) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
