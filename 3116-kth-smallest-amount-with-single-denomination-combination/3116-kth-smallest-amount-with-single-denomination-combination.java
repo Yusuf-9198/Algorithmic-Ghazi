@@ -3,10 +3,10 @@ import java.util.Arrays;
 import java.util.List;
 
 class Solution {
-    // Stores precomputed LCM and inclusion-exclusion sign (+1 or -1)
+    // Custom class: Har subset ka LCM aur Inclusion-Exclusion Sign (+1 ya -1) store karega
     private static class Subset {
         long lcm;
-        int sign;
+        int sign; // +1 agar odd size set hai (Inclusion), -1 agar even size set hai (Exclusion)
 
         Subset(long lcm, int sign) {
             this.lcm = lcm;
@@ -15,80 +15,101 @@ class Solution {
     }
 
     public long findKthSmallest(int[] coins, int k) {
-        // 1. Prune redundant coins
+        // STEP 1: Redundant Coins ko Filter (Prune) out karo
+        // Pehle array ko sort karo taaki chhote coins pehle aayein
         Arrays.sort(coins);
-        List<Integer> filtered = new ArrayList<>();
+        
+        List<Integer> filteredCoins = new ArrayList<>();
         for (int coin : coins) {
-            boolean redundant = false;
-            for (int existing : filtered) {
-                if (coin % existing == 0) {
-                    redundant = true;
+            boolean isRedundant = false;
+            // Check karo kya yeh coin kisi chhote coin ka multiple hai
+            for (int existingCoin : filteredCoins) {
+                if (coin % existingCoin == 0) {
+                    isRedundant = true; // Jaise 3 ke hote hue 6 ya 9 redundant hai
                     break;
                 }
             }
-            if (!redundant) {
-                filtered.add(coin);
+            // Jo redundant nahi hai, bas usko hi filter list mein rakho
+            if (!isRedundant) {
+                filteredCoins.add(coin);
             }
         }
 
-        int n = filtered.size();
-        long minCoin = filtered.get(0);
+        int n = filteredCoins.size();
+        long minCoin = filteredCoins.get(0);
+        // Maximum Search Boundary: kth smallest amount (minCoin * k) se bada nahi ho sakta
         long maxBound = minCoin * (long) k;
 
-        // 2. Precompute subset LCMs and signs
-        List<Subset> subsets = new ArrayList<>();
+        // STEP 2: Precalculate Subsets (Subsets ka LCM aur Sign pehle hi store kar lo)
+        // Isse Binary Search ke loop ke andhar baar-baar LCM aur GCD calculate nahi karna padega
+        List<Subset> precomputedSubsets = new ArrayList<>();
+        
+        // Bitmask se 1 se (2^n - 1) tak ke saare non-empty subsets generate karenge
         for (int mask = 1; mask < (1 << n); mask++) {
-            long lcmVal = 1;
-            int bits = 0;
-            boolean overflow = false;
+            long currentLcm = 1;
+            int bitCount = 0;
+            boolean isOverflow = false;
 
             for (int i = 0; i < n; i++) {
+                // Agar mask ka i-th bit set (1) hai, toh current coin subset ka part hai
                 if (((mask >> i) & 1) == 1) {
-                    bits++;
-                    lcmVal = lcm(lcmVal, filtered.get(i));
-                    if (lcmVal > maxBound) { // Early exit if LCM exceeds max possible search range
-                        overflow = true;
+                    bitCount++;
+                    currentLcm = lcm(currentLcm, filteredCoins.get(i));
+                    
+                    // Agar LCM search limit (maxBound) se bada ho gaya, toh aage calculate karne ka fayda nahi
+                    if (currentLcm > maxBound) {
+                        isOverflow = true;
                         break;
                     }
                 }
             }
 
-            if (!overflow) {
-                int sign = (bits % 2 == 1) ? 1 : -1;
-                subsets.add(new Subset(lcmVal, sign));
+            // Range ke andhar wala subset save kar lo
+            if (!isOverflow) {
+                // Odd length subsets ke liye +1 (add karo), Even length ke liye -1 (subtract karo)
+                int sign = (bitCount % 2 == 1) ? 1 : -1;
+                precomputedSubsets.add(new Subset(currentLcm, sign));
             }
         }
 
-        // 3. Binary Search with simple array loop
-        long low = 1, high = maxBound, ans = maxBound;
+        // STEP 3: Binary Search Answer calculate karne ke liye
+        long low = 1;
+        long high = maxBound;
+        long answer = maxBound;
+
         while (low <= high) {
             long mid = low + (high - low) / 2;
 
-            long count = 0;
-            for (Subset s : subsets) {
-                count += s.sign * (mid / s.lcm);
+            // Inclusion-Exclusion formula ko precomputed array par apply karo
+            long totalCount = 0;
+            for (Subset subset : precomputedSubsets) {
+                totalCount += subset.sign * (mid / subset.lcm);
             }
 
-            if (count >= k) {
-                ans = mid;
+            // Binary search decision logic
+            if (totalCount >= k) {
+                answer = mid;       // Mid threshold meet kar raha hai, chhota answer dhoondhne high ko kam karo
                 high = mid - 1;
             } else {
-                low = mid + 1;
+                low = mid + 1;      // Amounts target k se kam hain, range badao
             }
         }
 
-        return ans;
+        return answer; // kth smallest valid amount return kar do
     }
 
+    // GCD Calculate karne ka Euclidean Helper Method
     private long gcd(long a, long b) {
         while (b != 0) {
-            long temp = a % b;
+            long remainder = a % b;
             a = b;
-            b = temp;
+            b = remainder;
         }
         return a;
     }
 
+    // LCM Calculate karne ka Helper Method
+    // (a / gcd) pehle karne se long variable overflow hone se bach jata hai
     private long lcm(long a, long b) {
         return (a / gcd(a, b)) * b;
     }
