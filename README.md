@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1386-cinema-seat-allocation) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0004-median-of-two-sorted-arrays) |
 | [0493-reverse-pairs](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0704-binary-search) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
 |  |
@@ -258,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
