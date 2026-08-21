@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0877-stone-game) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0215-kth-largest-element-in-an-array) |
