@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0628-maximum-product-of-three-numbers) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0069-sqrtx) |
 | [0493-reverse-pairs](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
