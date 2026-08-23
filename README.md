@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0118-pascals-triangle) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0496-next-greater-element-i) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0867-transpose-matrix) |
