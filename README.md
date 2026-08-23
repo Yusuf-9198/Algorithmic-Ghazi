@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1260-shift-2d-grid) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Enumeration
 |  |
