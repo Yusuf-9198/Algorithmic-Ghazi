@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0704-binary-search) |
+| [0861-score-after-flipping-matrix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0977-squares-of-a-sorted-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0861-score-after-flipping-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1386-cinema-seat-allocation) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0316-remove-duplicate-letters) |
+| [0861-score-after-flipping-matrix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0861-score-after-flipping-matrix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1927-sum-game) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0054-spiral-matrix) |
+| [0861-score-after-flipping-matrix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1260-shift-2d-grid) |
 ## Simulation
