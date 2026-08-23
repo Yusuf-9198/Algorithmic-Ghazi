@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0217-contains-duplicate) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0316-remove-duplicate-letters) |
 | [0861-score-after-flipping-matrix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0861-score-after-flipping-matrix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1081-smallest-subsequence-of-distinct-characters) |
