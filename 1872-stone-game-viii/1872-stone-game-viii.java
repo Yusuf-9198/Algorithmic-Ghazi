@@ -1,23 +1,39 @@
-
 class Solution {
-    private int Solve(int j , int[] preSum){
-        int n = preSum.length; 
-        if(j == n-1) return preSum[n-1];
-        int nextState = Solve(j+1,preSum);
-        int take = preSum[j] - nextState;
-        int skip = nextState;
-        return Math.max(take,skip);
-    }
     public int stoneGameVIII(int[] stones) {
         int n = stones.length;
-        int[] preSum = new int[n];
-        preSum[0] = stones[0];
-        for(int i =1 ;i<n ;i++)
-            preSum[i] = preSum[i-1] + stones[i];
-        return Solve(1,preSum);
+        for (int i = 1; i < n; i++) {
+            stones[i] += stones[i - 1];
+        }
+        int maxDiff = stones[n - 1];
+        for (int i = n - 2; i >= 1; i--) {
+            maxDiff = Math.max(maxDiff, stones[i] - maxDiff);
+        }
+
+        return maxDiff;
     }
 }
 
+// // correct
+// class Solution {
+//     private int Solve(int j , int[] preSum){
+//         int n = preSum.length; 
+//         if(j == n-1) return preSum[n-1];
+//         int nextState = Solve(j+1,preSum);
+//         int take = preSum[j] - nextState;
+//         int skip = nextState;
+//         return Math.max(take,skip);
+//     }
+//     public int stoneGameVIII(int[] stones) {
+//         int n = stones.length;
+//         int[] preSum = new int[n];
+//         preSum[0] = stones[0];
+//         for(int i =1 ;i<n ;i++)
+//             preSum[i] = preSum[i-1] + stones[i];
+//         return Solve(1,preSum);
+//     }
+// }
+
+// correct
 // class Solution {
 //     private int n;
 //     private int[] memo;
