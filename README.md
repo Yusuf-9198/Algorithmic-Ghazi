@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1872-stone-game-viii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2029-stone-game-ix) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1510-stone-game-iv) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1872-stone-game-viii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2029-stone-game-ix) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0238-product-of-array-except-self) |
+| [1872-stone-game-viii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1872-stone-game-viii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2029-stone-game-ix) |
 ## Number Theory
@@ -310,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -317,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Yusuf-9198/DSA-By-Ghazi/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
